@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Amount-Total {
+  border: 2px solid black;
+}
+
+.Total-Select {
+  width: 150px;
+}
